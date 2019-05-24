@@ -1,4 +1,4 @@
-.out
+*.out
 .vscode
 test.*
 test
